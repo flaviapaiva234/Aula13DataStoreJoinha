@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         }
         Toast.makeText(this, "Nome: $nome, Idade: $idade, Cidade: $cidade, Pais: $pais", Toast.LENGTH_SHORT).show()
 
-      //  println("Nome: $nome, Idade: $idade, Cidade: $cidade, País: $pais")
+
     }
 
     private fun setListeners() {
